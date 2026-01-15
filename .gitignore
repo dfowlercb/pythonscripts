@@ -1,0 +1,6 @@
+# Firebase credentials (sensitive)
+firebase-credentials.json
+
+# R session files
+.RData
+.Rhistory
